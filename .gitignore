@@ -1,0 +1,4 @@
+/node_modules/
+*.json
+/assets/scss/
+/html/index.html
